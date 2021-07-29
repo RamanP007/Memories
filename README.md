@@ -11,7 +11,7 @@ Screenshot 3
 
 
 
-**How to setUp?**
+**How to Setup ?**
 
 * Clone this repository in you computer.
 * Run command `npm init` in both folder server and client.
