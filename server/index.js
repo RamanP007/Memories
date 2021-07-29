@@ -14,7 +14,7 @@ app.use(cors());
 app.use("/posts", postRoutes);
 
 const CONNECTION_URL =
-  "mongodb+srv://raman_007:U5H7p715tf9IFxrD@cluster0.lzp7j.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "Your MongoDB Cluster";
 const PORT = process.env.PORT || 5000;
 
 mongoose
